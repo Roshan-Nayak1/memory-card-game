@@ -1,0 +1,26 @@
+[
+    {
+        "src":"/fruits/1.jpg" ,
+        "matched": false
+    },
+    {
+        "src": "/fruits/2.jpg",
+        "matched": false
+    },
+    {
+        "src": "/fruits/3.jpg",
+        "matched": false
+    },
+    {
+        "src": "/fruits/4.jpg",
+        "matched": false
+    },
+    {
+        "src": "/fruits/5.jpg",
+        "matched": false
+    },
+    {
+        "src": "/fruits/6.jpg",
+        "matched": false
+    }
+]
